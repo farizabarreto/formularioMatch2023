@@ -1,0 +1,15 @@
+* {
+    margin: 25px;
+    padding: 25px;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+body {
+    width: 100%;
+
+    background-color: rebeccapurple;
+    color: lightgreen;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
